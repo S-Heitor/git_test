@@ -1,1 +1,1 @@
-# git_test
+This is Bobuda's frist git project!
